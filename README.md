@@ -2,7 +2,7 @@
 
 
 ### Actividades
-
+ ##Jostin Alvarado - Jose Luis Benitez
 1. Use el proyecto de Netbeans denominado **Ejemplo**
 2. Añada lo necesario al proyecto para usar la librería de Java: commons-lang
 3. Buscar información de la clase RandomUtils en https://commons.apache.org/proper/commons-lang/javadocs/api-release/index.html
